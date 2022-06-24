@@ -18,5 +18,5 @@
 ### Deep learning applications
 
 ### Mathematical logic
-https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
-https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
+- https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
+- https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
