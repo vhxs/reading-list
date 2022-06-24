@@ -16,3 +16,6 @@
 - https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
 
 ### Deep learning applications
+
+### Mathematical logic
+https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
