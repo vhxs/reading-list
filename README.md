@@ -13,9 +13,13 @@
 
 ### Distributed theory
 - https://dl.acm.org/doi/10.1145/164051.164056
+- https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
 
 ### Distributed deep learning
 - https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
+
+### Distributed optimization
+- https://nowak.ece.wisc.edu/dosn.pdf
 
 ### Machine learning theory
 - https://proceedings.neurips.cc/paper/2017/file/758a06618c69880a6cee5314ee42d52f-Paper.pdf
