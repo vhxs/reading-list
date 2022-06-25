@@ -9,8 +9,11 @@
 - https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf
 - https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
 
-### Distributed computing
+### Distributed algorithms
 - https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+
+### Distributed theory
+- https://dl.acm.org/doi/10.1145/164051.164056
 
 ### Distributed deep learning
 - https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
