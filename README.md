@@ -1,7 +1,6 @@
 ## List
 
-### Opinion pieces
-- https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf
+### Software industry
 - http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 
 ### Distributed systems
