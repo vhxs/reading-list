@@ -27,6 +27,7 @@
 
 ### Machine learning theory
 - Application of Sobolev spaces: https://proceedings.neurips.cc/paper/2017/file/758a06618c69880a6cee5314ee42d52f-Paper.pdf
+- SGD on Riemmanian manifolds: https://ieeexplore.ieee.org/document/6487381
 
 ### Mathematical logic
 - Reverse mathematics: https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
