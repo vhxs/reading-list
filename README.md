@@ -2,6 +2,7 @@
 
 ### Software industry
 - Systems research is irrelevant, by Rob Pike: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
+- The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
