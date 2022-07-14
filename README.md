@@ -19,6 +19,8 @@
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
+- Elastic average SGD (EASGD): https://proceedings.neurips.cc/paper/2015/file/d18f655c3fce66ca401d5f38b48c89af-Paper.pdf
+- DPSGD vs EASGD: https://proceedings.neurips.cc/paper/2017/file/f75526659f31040afeb61cb7133e4e6d-Paper.pdf
 
 ### Distributed optimization
 - Distributed optimization: https://nowak.ece.wisc.edu/dosn.pdf
