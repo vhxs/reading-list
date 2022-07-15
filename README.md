@@ -34,3 +34,4 @@
 - Reverse mathematics: https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
 - Mathematical forcing: http://timothychow.net/forcing.pdf
 - Distributed computability: https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
+- Computable structure theory: https://math.berkeley.edu/~antonio/CSTpart1.pdf
