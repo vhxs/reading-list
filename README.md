@@ -3,6 +3,7 @@
 ### Software industry
 - Systems research is irrelevant, by Rob Pike: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
+- Collusion rings: https://cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
