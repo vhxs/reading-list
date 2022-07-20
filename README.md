@@ -1,6 +1,6 @@
 ## List
 
-### Software industry
+### Software industry and research
 - Systems research is irrelevant, by Rob Pike: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 - History of industrial research: https://static1.squarespace.com/static/593d9b08be65945a2e878544/t/5d31ac9b33ae9b0001d88216/1563536539717/c14259.pdf
@@ -9,7 +9,9 @@
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 - Facebook TAO: https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf
-- Apache (Facebook) Cassandra: https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+- Apache Cassandra (Meta): https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+- Apache ZooKeeper: https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
+- Apache Kafka (LinkedIn): http://notes.stephenholiday.com/Kafka.pdf
 
 ### Distributed algorithms
 - Paxos: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
