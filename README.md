@@ -21,6 +21,7 @@
 - Immediate atomic snapshots: https://dl.acm.org/doi/10.1145/164051.164056
 - Impossibility of consensus: https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
 - Linearizability: https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf
+- Reasoning about knowledge: https://www.cs.rice.edu/~vardi/papers/book.pdf
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
