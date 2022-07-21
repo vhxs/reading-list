@@ -16,6 +16,7 @@
 ### Distributed algorithms
 - Paxos: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
 - Raft: https://raft.github.io/raft.pdf
+- Practical Byzantine fault tolerance: https://pmg.csail.mit.edu/papers/osdi99.pdf
 
 ### Distributed theory
 - Immediate atomic snapshots: https://dl.acm.org/doi/10.1145/164051.164056
