@@ -41,3 +41,8 @@
 - Mathematical forcing: http://timothychow.net/forcing.pdf
 - Distributed computability: https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
 - Computable structure theory: https://math.berkeley.edu/~antonio/CSTpart1.pdf
+
+### Concurrent data structures
+- Counting networks: https://www.cs.yale.edu/homes/aspnes/papers/ahs.pdf
+- Bitonic sorting: http://www.cs.kent.edu/~batcher/sort.pdf
+- Software transacional memory: https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
