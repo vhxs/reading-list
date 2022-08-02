@@ -5,6 +5,7 @@
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 - History of industrial research: https://static1.squarespace.com/static/593d9b08be65945a2e878544/t/5d31ac9b33ae9b0001d88216/1563536539717/c14259.pdf
 - Collusion rings: https://cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
+- CAP theorem is bad: https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
 
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
@@ -23,6 +24,8 @@
 - Impossibility of consensus: https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
 - Linearizability: https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf
 - Reasoning about knowledge: https://www.cs.rice.edu/~vardi/papers/book.pdf
+- CAP theorem: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf
+- PACELC theorem: https://ieeexplore.ieee.org/document/6127847
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
