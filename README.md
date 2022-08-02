@@ -5,7 +5,7 @@
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 - History of industrial research: https://static1.squarespace.com/static/593d9b08be65945a2e878544/t/5d31ac9b33ae9b0001d88216/1563536539717/c14259.pdf
 - Collusion rings: https://cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
-- CAP theorem is bad: https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+- CAP theorem is bad: https://arxiv.org/pdf/1509.05393.pdf
 
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
