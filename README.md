@@ -50,3 +50,4 @@
 - Counting networks: https://www.cs.yale.edu/homes/aspnes/papers/ahs.pdf
 - Bitonic sorting: http://www.cs.kent.edu/~batcher/sort.pdf
 - Software transacional memory: https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
+- Obstruction freedom: http://cs.brown.edu/people/mph/HerlihyLM03/main.pdf
