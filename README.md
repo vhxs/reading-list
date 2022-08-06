@@ -26,6 +26,7 @@
 - Reasoning about knowledge: https://www.cs.rice.edu/~vardi/papers/book.pdf
 - CAP theorem: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf
 - PACELC theorem: https://ieeexplore.ieee.org/document/6127847
+- Distributionally linearizable data structures: https://dl.acm.org/doi/10.1145/3210377.3210411
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
