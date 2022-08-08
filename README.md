@@ -27,6 +27,7 @@
 - CAP theorem: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf
 - PACELC theorem: https://ieeexplore.ieee.org/document/6127847
 - Distributionally linearizable data structures: https://dl.acm.org/doi/10.1145/3210377.3210411
+- Consistency models: https://jepsen.io/consistency
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
@@ -45,6 +46,7 @@
 - Mathematical forcing: http://timothychow.net/forcing.pdf
 - Distributed computability: https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
 - Computable structure theory: https://math.berkeley.edu/~antonio/CSTpart1.pdf
+- Computability menagerie: https://www.computability.org/zoo/
 
 ### Concurrent data structures
 - Counting networks: https://www.cs.yale.edu/homes/aspnes/papers/ahs.pdf
