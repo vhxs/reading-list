@@ -52,3 +52,9 @@
 - Software transacional memory: https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
 - Obstruction freedom: http://cs.brown.edu/people/mph/HerlihyLM03/main.pdf
 - Harris's lock-free linked list: https://timharris.uk/papers/2001-disc.pdf
+
+### Homomorphic encryption
+- CKKS: https://eprint.iacr.org/2016/421.pdf
+- RNS CKKS: https://eprint.iacr.org/2018/931.pdf
+- CryptoNets: https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/
+- Low latency privacy preserving inference: http://proceedings.mlr.press/v97/brutzkus19a/brutzkus19a.pdf
