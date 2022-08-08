@@ -51,3 +51,4 @@
 - Bitonic sorting: http://www.cs.kent.edu/~batcher/sort.pdf
 - Software transacional memory: https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
 - Obstruction freedom: http://cs.brown.edu/people/mph/HerlihyLM03/main.pdf
+- Harris's lock-free linked list: https://timharris.uk/papers/2001-disc.pdf
