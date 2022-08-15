@@ -63,3 +63,4 @@
 
 ### Statistic
 - Why there are better alternatives to AUC: https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5119-5.pdf
+- Why AUC is actually fine: https://icml.cc/Conferences/2011/papers/385_icmlpaper.pdf
