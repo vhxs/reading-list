@@ -60,3 +60,6 @@
 - RNS CKKS: https://eprint.iacr.org/2018/931.pdf
 - CryptoNets: https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/
 - Low latency privacy preserving inference: http://proceedings.mlr.press/v97/brutzkus19a/brutzkus19a.pdf
+
+### Statistic
+- Why there are better alternatives to AUC: https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5119-5.pdf
