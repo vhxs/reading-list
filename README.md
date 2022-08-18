@@ -65,6 +65,6 @@
 - Low latency privacy preserving inference: http://proceedings.mlr.press/v97/brutzkus19a/brutzkus19a.pdf
 - Multiplexed Parallel Convolutions: https://proceedings.mlr.press/v162/lee22e.html
 
-### Statistic
+### Statistics
 - Why there are better alternatives to AUC: https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5119-5.pdf
 - Why AUC is actually fine: https://icml.cc/Conferences/2011/papers/385_icmlpaper.pdf
