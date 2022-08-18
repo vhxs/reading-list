@@ -41,6 +41,9 @@
 - Application of Sobolev spaces: https://proceedings.neurips.cc/paper/2017/file/758a06618c69880a6cee5314ee42d52f-Paper.pdf
 - SGD on Riemannian manifolds: https://ieeexplore.ieee.org/document/6487381
 
+### Applied machine learning
+- The Case for a Learned Sorting Algorithm: https://dl.acm.org/doi/pdf/10.1145/3318464.3389752
+
 ### Mathematical logic
 - Reverse mathematics: https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
 - Mathematical forcing: http://timothychow.net/forcing.pdf
