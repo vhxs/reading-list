@@ -19,6 +19,7 @@
 - Raft: https://raft.github.io/raft.pdf
 - Practical Byzantine fault tolerance: https://pmg.csail.mit.edu/papers/osdi99.pdf
 - Zab (Zookeeper Atomic Broadcast): https://marcoserafini.github.io/papers/zab.pdf
+- The Promise, and Limitations, of Gossip Protocols: https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/2007PromiseAndLimitations.pdf
 
 ### Distributed theory
 - Immediate atomic snapshots: https://dl.acm.org/doi/10.1145/164051.164056
