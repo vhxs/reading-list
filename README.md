@@ -73,3 +73,7 @@
 ### Statistics
 - Why there are better alternatives to AUC: https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5119-5.pdf
 - Why AUC is actually fine: https://icml.cc/Conferences/2011/papers/385_icmlpaper.pdf
+
+### Games
+- Mario is NP-hard: https://erikdemaine.org/papers/Mario_FUN2016/paper.pdf
+- The factory must grow; genetic algorithms for factorio: https://dl.acm.org/doi/pdf/10.1145/3449726.3459463
