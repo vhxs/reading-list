@@ -65,6 +65,7 @@
 - Harris's lock-free linked list: https://timharris.uk/papers/2001-disc.pdf
 - Transactional boosting: https://erickoskinen.com/papers/boosting-ppopp08.pdf
 - Hardware read-write lock elision: https://dl.acm.org/doi/10.1145/2901318.2901346
+- The case for hardware transactional memory: https://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/lectures/20_transactionalmem.pdf
 
 ### Homomorphic encryption
 - CKKS: https://eprint.iacr.org/2016/421.pdf
