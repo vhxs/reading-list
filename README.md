@@ -59,10 +59,12 @@
 - Range queries and LSM trees: https://www.usenix.org/system/files/fast21-zhong.pdf
 - Counting networks: https://www.cs.yale.edu/homes/aspnes/papers/ahs.pdf
 - Bitonic sorting: http://www.cs.kent.edu/~batcher/sort.pdf
-- Software transacional memory: https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
+- Transactional memory: https://cs.brown.edu/~mph/HerlihyM93/herlihy93transactional.pdf
+- Software transacional memory (post mortem): https://dl.acm.org/doi/pdf/10.1145/1454456.1454466
 - Obstruction freedom: http://cs.brown.edu/people/mph/HerlihyLM03/main.pdf
 - Harris's lock-free linked list: https://timharris.uk/papers/2001-disc.pdf
 - Transactional boosting: https://erickoskinen.com/papers/boosting-ppopp08.pdf
+- Hardware read-write lock elision: https://dl.acm.org/doi/10.1145/2901318.2901346
 
 ### Homomorphic encryption
 - CKKS: https://eprint.iacr.org/2016/421.pdf
