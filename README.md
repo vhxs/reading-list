@@ -55,6 +55,7 @@
 - Computability menagerie: https://www.computability.org/zoo/
 
 ### Concurrent data structures
+- Herlihy's third Dijkstra prize (The Repeat Offender Problem): https://link.springer.com/chapter/10.1007/3-540-36108-1_23
 - RocksDB: https://dl.acm.org/doi/pdf/10.1145/3483840
 - Range queries and LSM trees: https://www.usenix.org/system/files/fast21-zhong.pdf
 - Counting networks: https://www.cs.yale.edu/homes/aspnes/papers/ahs.pdf
