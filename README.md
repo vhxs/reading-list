@@ -83,3 +83,6 @@
 ### Games
 - Mario is NP-hard: https://erikdemaine.org/papers/Mario_FUN2016/paper.pdf
 - The factory must grow; genetic algorithms for factorio: https://dl.acm.org/doi/pdf/10.1145/3449726.3459463
+
+### Human-Computer Interaction (HCI)
+- Self-E: https://nediyana.github.io/pdfs/Self_E__CHI_2021.pdf
