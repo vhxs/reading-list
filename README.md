@@ -30,6 +30,7 @@
 - PACELC theorem: https://ieeexplore.ieee.org/document/6127847
 - Distributionally linearizable data structures: https://dl.acm.org/doi/10.1145/3210377.3210411
 - Consistency models: https://jepsen.io/consistency
+- Distributed computability: https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
 
 ### Distributed deep learning
 - Downpour gradient descent: https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf
@@ -47,12 +48,11 @@
 ### Applied machine learning
 - The Case for a Learned Sorting Algorithm: https://dl.acm.org/doi/pdf/10.1145/3318464.3389752
 
-### Mathematical logic
+### Foundations of mathematics
 - Reverse mathematics: https://www.ams.org/journals/notices/201809/rnoti-p1098.pdf
 - Mathematical forcing: http://timothychow.net/forcing.pdf
-- Distributed computability: https://link.springer.com/chapter/10.1007/978-3-319-96154-5_18
 - Computable structure theory: https://math.berkeley.edu/~antonio/CSTpart1.pdf
-- Computability menagerie: https://www.computability.org/zoo/
+- Homotopy type theory: https://arxiv.org/pdf/2212.11082.pdf
 
 ### Concurrent data structures
 - The Blelloch scan: https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf
