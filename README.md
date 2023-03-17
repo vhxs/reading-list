@@ -85,3 +85,7 @@
 
 ### Human-Computer Interaction (HCI)
 - Self-E: https://nediyana.github.io/pdfs/Self_E__CHI_2021.pdf
+
+### Applied algebraic topology
+- UMAP: https://arxiv.org/pdf/1802.03426.pdf
+- Parametric UMAP: https://arxiv.org/pdf/2009.12981.pdf
