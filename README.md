@@ -90,5 +90,6 @@
 - UMAP: https://arxiv.org/pdf/1802.03426.pdf
 - Parametric UMAP: https://arxiv.org/pdf/2009.12981.pdf
 
-### Graph algorithms
+### Algorithms
 - HNSW algorithm for KNN search: https://arxiv.org/pdf/1603.09320.pdf
+- HDBSCAN for clustering: https://arxiv.org/pdf/1911.02282.pdf
