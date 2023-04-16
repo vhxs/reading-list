@@ -1,6 +1,7 @@
 ## List
 
 ### Software industry and research
+- Survival Strategies for Depressed AI Academics: https://arxiv.org/pdf/2304.06035.pdf
 - Systems research is irrelevant: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 - History of industrial research: https://static1.squarespace.com/static/593d9b08be65945a2e878544/t/5d31ac9b33ae9b0001d88216/1563536539717/c14259.pdf
@@ -82,6 +83,8 @@
 ### Games
 - Mario is NP-hard: https://erikdemaine.org/papers/Mario_FUN2016/paper.pdf
 - The factory must grow; genetic algorithms for factorio: https://dl.acm.org/doi/pdf/10.1145/3449726.3459463
+- MTG is Turing-complete: https://arxiv.org/abs/1904.09828
+- MTG is harder than the arithmetical hierarchy: https://arxiv.org/pdf/2003.05119.pdf
 
 ### Human-Computer Interaction (HCI)
 - Self-E: https://nediyana.github.io/pdfs/Self_E__CHI_2021.pdf
