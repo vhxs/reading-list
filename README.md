@@ -55,6 +55,7 @@
 - Homotopy type theory: https://arxiv.org/pdf/2212.11082.pdf
 
 ### Concurrent data structures
+- The skip list: https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf
 - The Blelloch scan: https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf
 - Herlihy's third Dijkstra prize (The Repeat Offender Problem): https://link.springer.com/chapter/10.1007/3-540-36108-1_23
 - RocksDB: https://dl.acm.org/doi/pdf/10.1145/3483840
