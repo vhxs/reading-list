@@ -97,3 +97,7 @@
 ### Algorithms
 - HNSW algorithm for KNN search: https://arxiv.org/pdf/1603.09320.pdf
 - HDBSCAN for clustering: https://arxiv.org/pdf/1911.02282.pdf
+
+### Humor
+- Chicken paper: https://isotropic.org/papers/chicken.pdf
+- Demaine on authorship: https://arxiv.org/pdf/2304.01393.pdf
