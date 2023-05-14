@@ -4,12 +4,13 @@
 - Chicken paper: https://isotropic.org/papers/chicken.pdf
 - Demaine on authorship: https://arxiv.org/pdf/2304.01393.pdf
 
-### Software industry and research
+### Big picture stuff
 - Survival Strategies for Depressed AI Academics: https://arxiv.org/pdf/2304.06035.pdf
 - Systems research is irrelevant: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
 - History of industrial research: https://static1.squarespace.com/static/593d9b08be65945a2e878544/t/5d31ac9b33ae9b0001d88216/1563536539717/c14259.pdf
 - CAP theorem is bad: https://arxiv.org/pdf/1509.05393.pdf
+- Ghrist's take on pure and applied math: https://thepenngazette.com/pdfs/PennGaz0715_feature5.pdf
 
 ### Distributed systems
 - Amazon Dynamo: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
