@@ -81,6 +81,7 @@
 - CryptoNets: https://www.microsoft.com/en-us/research/publication/cryptonets-applying-neural-networks-to-encrypted-data-with-high-throughput-and-accuracy/
 - Low latency privacy preserving inference: http://proceedings.mlr.press/v97/brutzkus19a/brutzkus19a.pdf
 - Multiplexed Parallel Convolutions: https://proceedings.mlr.press/v162/lee22e.html
+- Precise Approximation of Convolutional Neural Networks for Homomorphically Encrypted Data: https://arxiv.org/pdf/2105.10879.pdf
 
 ### Statistics
 - Why there are better alternatives to AUC: https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5119-5.pdf
