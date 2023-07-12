@@ -103,3 +103,6 @@
 ### Algorithms
 - HNSW algorithm for KNN search: https://arxiv.org/pdf/1603.09320.pdf
 - HDBSCAN for clustering: https://arxiv.org/pdf/1911.02282.pdf
+
+### Simplicial stuff
+- Geometric simplicial embeddings of arc-type graphs: https://arxiv.org/pdf/1902.11279.pdf
