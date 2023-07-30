@@ -5,6 +5,7 @@
 - Demaine on authorship: https://arxiv.org/pdf/2304.01393.pdf
 
 ### Big picture stuff
+- Do artifacts have politics? https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf
 - Survival Strategies for Depressed AI Academics: https://arxiv.org/pdf/2304.06035.pdf
 - Systems research is irrelevant: http://doc.cat-v.org/bell_labs/utah2000/utah2000.pdf
 - The decline of unfettered research: http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
