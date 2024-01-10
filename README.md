@@ -44,7 +44,8 @@
 - HNSW algorithm for KNN search: https://arxiv.org/pdf/1603.09320.pdf
 - HDBSCAN for clustering: https://arxiv.org/pdf/1911.02282.pdf
 
-### Unsorted
+### Transformers
 - Attention is all you need: https://dl.acm.org/doi/pdf/10.5555/3295222.3295349
 - Flash attention: https://papers.nips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html
 - LoRA: https://arxiv.org/pdf/2106.09685.pdf
+- KV caching: https://arxiv.org/pdf/2211.05102.pdf
